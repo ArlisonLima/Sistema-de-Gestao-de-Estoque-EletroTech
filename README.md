@@ -1,5 +1,5 @@
-https://github.com/ArlisonLima/Sistema-de-Gestao-de-Estoque-EletroTech/blob/main/logo.jpg
-![logo](/github.com/ArlisonLima/Sistema-de-Gestao-de-Estoque-EletroTech/blob/main/logo.jpg)
+
+![logo](/logo.jpg)
 
 # Sistema de Gestão de Estoque EletroTech
 
